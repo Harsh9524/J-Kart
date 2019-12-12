@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"product_obj"
+			],
+			[
+				"Pro",
+				"ProductDetailSlugView"
+			],
+			[
+				"cart",
+				"cart_update"
+			],
+			[
+				"new",
+				"new_or_get"
+			],
+			[
+				"m",
+				"m2m_changed_cart_receiver"
+			],
+			[
+				"ca",
+				"Cart"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"pr",
+				"pre_save_cart_receiver"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"c",
+				"cart_obj"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"cart_",
+				"cart_obj"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"get",
+				"get_context_data"
+			],
+			[
+				"Product",
+				"ProductManager"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"product",
+				"product_list_view"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"is_",
+				"is_authenticated"
+			],
+			[
+				"a",
+				"authenticate"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"st",
+				"stem"
+			],
+			[
+				"ste",
+				"stemmer"
+			],
+			[
+				"word",
+				"word_tokenize"
+			],
+			[
+				"ou",
+				"output"
+			],
+			[
+				"out",
+				"output_row"
+			],
+			[
+				"docs",
+				"docs_y"
+			],
+			[
+				"in",
+				"intents"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/harshpanwar/Desktop/ecommerce",
+		"/Users/harshpanwar/Desktop/ecommerce/include",
+		"/Users/harshpanwar/Desktop/ecommerce/lib",
+		"/Users/harshpanwar/Desktop/ecommerce/src",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/templates",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/templates/carts",
+		"/Users/harshpanwar/Desktop/ecommerce/src/ecommerce",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/__pycache__",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products/snippets",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search/templates",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search/templates/search",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search/templates/search/snippets",
+		"/Users/harshpanwar/Desktop/ecommerce/src/static_my_proj",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/auth",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/base",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/contact",
+		"/Users/harshpanwar/Desktop/ecommerce/static_cdn",
+		"/Users/harshpanwar/Desktop/ecommerce/static_cdn/static_root"
+	],
+	"file_history":
+	[
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/models.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/templates/carts/home.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/views.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products/snippets/card.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products/detail.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/base/css.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/base/navbar.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/urls.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/models.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/views.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/urls.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/ecommerce/urls.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/static_my_proj/bootstrap.css",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/base.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/home_page.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products/list.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/base/bootstrap.css",
+		"/Users/harshpanwar/Downloads/bootstrap-4.3.1-dist/css/bootstrap.css",
+		"/Users/harshpanwar/Desktop/ecommerce/src/ecommerce/views.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/admin.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/carts/carts/home.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/ecommerce/settings.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/tags/admin.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/tags/models.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search/views.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search/urls.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search/templates/search/view.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/ecommerce/forms.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/auth/register.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/auth/login.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/tests.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/utils.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/contact/view.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/templates/base/js.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products/details.html",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/admin.py",
+		"/Users/harshpanwar/Desktop/ecommerce/src/products/templates/products/featured-detail.html",
+		"/Users/harshpanwar/Downloads/chatbot-master/main.py",
+		"/Users/harshpanwar/Desktop/keras-chatbot-web-api-master/chatbot_web/flaskr.py",
+		"/Users/harshpanwar/Desktop/keras-chatbot-web-api-master/setup.py",
+		"/Users/harshpanwar/Desktop/untitled.py",
+		"/Users/harshpanwar/techWithTim/intents.json",
+		"/Users/harshpanwar/Downloads/json file/intents.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"bg",
+			"Unknown",
+			"jpg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
