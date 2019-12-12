@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>{{ title }}</h1>
+    <h1>Hello, world we are working!</h1>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="col-6-sm-6 col-12">
+            <form method="POST"> {% csrf_token %}
+              {{ form }}
+              <button type="submit" class="btn btn-default">Submit</button>
+            </form>
+          <!-- <form method="POST"> {% csrf_token %}
+            <input type="text" class="form-control" placeholder="Name" name="fullname">
+            <button type="submit" class="btn btn-default">Submit</button>
+          </form> -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+{% endblock %}
+
