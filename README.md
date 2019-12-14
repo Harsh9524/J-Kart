@@ -13,4 +13,4 @@ Instructions to use
 - to access the admin page use 127.0.0.1/8000
 
 For any queries contact me @harshpanwat9524@gmail.com
-![Image description](J-Kart/Screenshot 2019-11-28 at 12.04.16 AM.png)J-Kart/Screenshot 2019-11-28 at 12.04.16 AM.png
+![Image description]("J-Kart/Screenshot 2019-11-28 at 12.04.16 AM.png")
