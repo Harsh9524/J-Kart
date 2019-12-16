@@ -12,4 +12,6 @@ Instructions to use
 - it will run the server on localhost 127.0.0.1
 - to access the admin page use 127.0.0.1/8000
 
-For any queries contact me @harshpanwat9524@gmail.com
+For any queries contact me @harshpanwar9524@gmail.com
+
+![](Screenshot%202019-11-28%20at%2012.04.16%20AM.png)
